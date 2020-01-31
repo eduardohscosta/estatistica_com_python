@@ -20,5 +20,5 @@ Com isso, o objetivo deste projeto é explicar, de forma não-técnica e técnic
 
 Qualquer sugestão, contribuição ou crítica pode ser feita através dos seguintes canais:
 
-Gmail: eduardohscosta@gmail.com
+Gmail: eduardohscosta@gmail.com </br>
 Twitter: @eduhenri_
