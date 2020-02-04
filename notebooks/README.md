@@ -1,6 +1,6 @@
 <center> <h1> <b> A Introdução </b> </h1> </center>
 
-Há alguns meses venho estudando assuntos relacionados, especificamente, à Ciência de Dados (CD). Na verdade, [vai fazer 1 ano]. Embora eu prefira estudar qualquer assunto por conta própria, os estudo nessa área foram bastante complicados. Não apenas pelos conteúdos em si, mas pela amplitude de tudo relacionado à área.
+Há alguns meses venho estudando assuntos relacionados, especificamente, à Ciência de Dados (CD). Na verdade, [vai fazer 1 ano](https://medium.com/henrique-edu/primeiros-passos-de-um-economista-em-data-science-8440c0a5a2b0). Embora eu prefira estudar qualquer assunto por conta própria, os estudo nessa área foram bastante complicados. Não apenas pelos conteúdos em si, mas pela amplitude de tudo relacionado à área.
 
 Nesse processo, eu travei bastante no que diz respeito ao que estudar, como estudar, por onde começar, até onde ir em cada assunto e assim por diante. Hoje, discordo frontalmente de algumas dicas de "Como iniciar na área de Ciência de Dados".
 
@@ -20,5 +20,5 @@ Com isso, o objetivo deste projeto é explicar, de forma não-técnica e técnic
 
 Qualquer sugestão, contribuição ou crítica pode ser feita através dos seguintes canais:
 
-Gmail: eduardohscosta@gmail.com
-Twitter: @eduhenri_
+Gmail: eduardohscosta@gmail.com </br>
+Twitter: [@eduhenri_](https://twitter.com/eduhenri_)
