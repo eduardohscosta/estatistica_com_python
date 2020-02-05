@@ -22,3 +22,10 @@ Qualquer sugestão, contribuição ou crítica pode ser feita através dos segui
 
 Gmail: eduardohscosta@gmail.com </br>
 Twitter: [@eduhenri_](https://twitter.com/eduhenri_)
+---
+1. [A Base de Dados](https://bit.ly/39kijbt)
+1.1 [Radar IDHM](https://bit.ly/3724DQy)
+1.2 [Rápidas Considerações](https://bit.ly/2Skn91h)
+1.3 [Uma rápida, rápida mesmo, visão sobre o Pandas](https://bit.ly/2GUsCGP)
+1.4 [Conhecendo a Base](https://bit.ly/2RZhSxe)
+1.5 [Preparando a Base](https://bit.ly/380jBb5)
